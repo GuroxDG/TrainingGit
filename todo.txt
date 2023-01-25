@@ -1,1 +1,2 @@
 Este era un ejemplo del funcionamiento de git
+adjuntando el .ignore
